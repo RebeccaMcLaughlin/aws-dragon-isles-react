@@ -22,7 +22,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx .",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "serverless deploy"
   },
   "eslintConfig": {
     "extends": "react-app"

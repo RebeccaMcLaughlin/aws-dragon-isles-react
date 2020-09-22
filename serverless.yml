@@ -1,0 +1,10 @@
+org: beccamclaughlin
+app: dragons
+name: react-starter
+component: website
+
+inputs:
+  src:
+    src: ./src
+    hook: yarn build
+    dist: ./build
