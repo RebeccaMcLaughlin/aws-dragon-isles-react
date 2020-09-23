@@ -8,3 +8,4 @@ inputs:
     src: ./src
     hook: yarn build
     dist: ./build
+
